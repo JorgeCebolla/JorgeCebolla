@@ -1,12 +1,11 @@
-## Hi there 👋
 # Hola, soy Jorge 👋
 
 Físico / Desarrollador enfocado en **Machine Learning, Big Data y Cloud**. Apasionado por resolver problemas analíticos complejos, diseñar arquitecturas de datos eficientes y construir aplicaciones escalables.
 
-- 🔭 Actualmente estudiando: **Máster IA, Big Data y Cloud en EDEM
+- 🔭 Actualmente estudiando: **Máster IA, Big Data y Cloud en EDEM**
 - 🛠️ Stack principal: **Python, SQL, Cloud & Contenedores**
 - 💬 Hablemos sobre: **Data Pipelines, Modelado Matemático y Full-Stack Apps**
-- 📫 Contacto: [LinkedIn] www.linkedin.com/in/jorge-cebolla-carrió
+- 📫 LinkedIn: www.linkedin.com/in/jorge-cebolla-carrió
 
 ---
 
