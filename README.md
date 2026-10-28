@@ -1,17 +1,25 @@
 ## Hi there 👋
-Este es mi primer commit
-he hecho otro cambio
-<!--
-**JorgeCebolla/JorgeCebolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Jorge 👋
 
-Here are some ideas to get you started:
+Físico / Desarrollador enfocado en **Machine Learning, Big Data y Cloud**. Apasionado por resolver problemas analíticos complejos, diseñar arquitecturas de datos eficientes y construir aplicaciones escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estudiando: **Máster IA, Big Data y Cloud en EDEM
+- 🛠️ Stack principal: **Python, SQL, Cloud & Contenedores**
+- 💬 Hablemos sobre: **Data Pipelines, Modelado Matemático y Full-Stack Apps**
+- 📫 Contacto: [LinkedIn] www.linkedin.com/in/jorge-cebolla-carrió
+
+---
+
+
+### 💻 Tecnologías & Herramientas
+
+**Lenguajes:**  
+`Python` `SQL` `JavaScript / TypeScript` `Bash`
+
+**Datos & Machine Learning:**  
+`Pandas` `NumPy` `Scikit-Learn` `PostgreSQL`
+
+**Cloud & DevOps:**  
+`Docker` `Supabase` `Git / GitHub Actions` `Linux / WSL`
+
+---
